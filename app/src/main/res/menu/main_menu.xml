@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menuCheck"
+        android:title="당첨정보 확인"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menuScan"
+        android:title="QR코드 스캐너"
+        app:showAsAction="never" />
+
+</menu>
